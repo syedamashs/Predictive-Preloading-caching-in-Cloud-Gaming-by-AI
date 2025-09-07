@@ -1,0 +1,32 @@
+[
+  {
+    "userId": "u1",
+    "numbers": [
+      1,
+      2,
+      6,
+      8
+    ],
+    "climate": "rainy"
+  },
+  {
+    "userId": "u1",
+    "numbers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "climate": "sunny"
+  },
+  {
+    "userId": "u1",
+    "numbers": [
+      1,
+      2,
+      7,
+      8
+    ],
+    "climate": "snowy"
+  }
+]
